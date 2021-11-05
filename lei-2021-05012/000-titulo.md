@@ -1,0 +1,1 @@
+# LEI Nº 5.012, DE 25 DE OUTUBRO DE 2021 INSTITUI A SEMANA MUNICIPAL DE PREVENÇÃO AOS ACIDENTES DE MOTO E DÁ OUTRAS PROVIDÊNCIAS O PRESIDENTE DA CÂMARA MUNICIPAL DE PARAUAPEBAS Faço saber que a Câmara Municipal aprovou e eu, em função de sanção tácita, no uso das minhas atribuições legais, promulgo a seguinte Lei:
