@@ -1,0 +1,1 @@
+# LEI Nº 5.011, DE 25 DE OUTUBRO DE 2021 DISPÕE SOBRE A VALORIZAÇÃO E A INCLUSÃO DAS PESSOAS COM DEFICIÊNCIA E DOENÇAS RARAS NA PUBLICIDADE INSTITUCIONAL DO MUNICÍPIO DE PARAUAPEBAS O PRESIDENTE DA CÂMARA MUNICIPAL DE PARAUAPEBAS Faço saber que a Câmara Municipal aprovou e eu, em função de sanção tácita, no uso das minhas atribuições legais, promulgo a seguinte Lei:
