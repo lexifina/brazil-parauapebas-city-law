@@ -1,0 +1,1 @@
+# LEI Nº 5.044, DE 16 DE DEZEMBRO DE 2021 DISPÕE SOBRE A FISIOTERAPIA DE REABILITAÇÃO PARA MULHERES MASTECTOMIZADAS NO ÂMBITO DO MUNICÍPIO DE PARAUAPEBAS O PRESIDENTE DA CÂMARA MUNICIPAL DE PARAUAPEBAS Faço saber que a Câmara Municipal rejeitou o veto e eu, no uso das minhas atribuições legais, promulgo a seguinte Lei:
