@@ -1,0 +1,1 @@
+# LEI Nº 5.045, DE 16 DE DEZEMBRO DE 2021 INSTITUI A POLÍTICA MUNICIPAL DE PREVENÇÃO E ATENDIMENTO À GRAVIDEZ NA ADOLESCÊNCIA E DÁ OUTRAS PROVIDÊNCIAS O PRESIDENTE DA CÂMARA MUNICIPAL DE PARAUAPEBAS Faço saber que a Câmara Municipal rejeitou o veto e eu, no uso das minhas atribuições legais, promulgo a seguinte Lei:
