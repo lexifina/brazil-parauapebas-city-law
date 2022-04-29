@@ -1,0 +1,1 @@
+# LEI Nº 5.090, DE 19 DE ABRIL DE 2022 DETERMINA A UTILIZAÇÃO DE SISTEMA ELETRÔNICO DE GERENCIAMENTO DE FILAS NA REDE PÚBLICA MUNICIPAL O PRESIDENTE DA CÂMARA MUNICIPAL DE PARAUAPEBAS Faço saber que a Câmara Municipal rejeitou o veto e eu, no uso das minhas atribuições legais, promulgo a seguinte Lei:
