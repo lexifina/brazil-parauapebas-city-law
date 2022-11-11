@@ -1,0 +1,1 @@
+# LEI Nº 5.169, DE 04 DE NOVEMBRO DE 2022 DISPÕE SOBRE GARANTIA DE ENTRADA FRANCA EM EVENTOS CULTURAIS A PESSOAS COM DEFICIÊNCIA E DÁ OUTRAS PROVIDÊNCIAS O PRESIDENTE DA CÂMARA MUNICIPAL DE PARAUAPEBAS Faço saber que a Câmara Municipal rejeitou o veto e eu, no uso das minhas atribuições legais, promulgo a seguinte Lei:
