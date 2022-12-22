@@ -1,0 +1,1 @@
+# LEI Nº 5.194, DE 19 DE DEZEMBRO DE 2022 DISPÕE SOBRE A TRANSPARÊNCIA NA EXECUÇÃO DE EMENDAS INDICADAS AO PODER EXECUTIVO POR VEREADORES DA CÂMARA DE PARAUAPEBAS O PRESIDENTE DA CÂMARA MUNICIPAL DE PARAUAPEBAS Faço saber que a Câmara Municipal aprovou e eu, em função de sanção tácita, no uso das minhas atribuições legais, promulgo a seguinte Lei:
