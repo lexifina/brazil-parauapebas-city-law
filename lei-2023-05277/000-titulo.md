@@ -1,0 +1,2 @@
+# LEI Nº 5.277, DE 1º DE SETEMBRO DE 2023 INSTITUI A POLÍTICA MUNICIPAL DE CUIDADO INTEGRAL ÀS PESSOAS COM TRANSTORNO DO ESPECTRO AUTISTA - TEA NO MUNICÍPIO DE PARAUAPEBAS E DÁ OUTRAS PROVIDÊNCIAS.
+O PRESIDENTE DA CÂMARA MUNICIPAL DE PARAUAPEBAS Faço saber que a Câmara Municipal aprovou e eu, em função de sanção tácita, no uso das minhas atribuições legais, promulgo a seguinte lei:
