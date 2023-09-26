@@ -1,0 +1,2 @@
+# LEI Nº 5.232, DE 02 DE JUNHO DE 2023 ESTABELECE CRITÉRIOS PARA AS PROVAS OBJETIVAS DE CONCURSOS PÚBLICOS E PROCESSOS SELETIVOS SIMPLIFICADOS NO ÂMBITO DO SERVIÇO PÚBLICO MUNICIPAL.
+O PRESIDENTE DA CÂMARA MUNICIPAL DE PARAUAPEBAS Faço saber que a Câmara Municipal aprovou e eu, em função de sanção tácita, no uso das minhas atribuições legais, promulgo a seguinte lei:
