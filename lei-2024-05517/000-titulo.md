@@ -1,0 +1,3 @@
+# LEI Nº 5.517, DE 5 DE NOVEMBRO DE 2024.
+DECLARA DE UTILIDADE PÚBLICA A ACADEMIA PARAUAPEBENSE DE LETRAS - APL.
+A CÂMARA MUNICIPAL DE PARAUAPEBAS, Estado do Pará, aprovou, e eu, Prefeito do Município, sanciono a seguinte Lei:
