@@ -1,0 +1,2 @@
+# LEI Nº 5.581, DE 2 DE SETEMBRO DE 2025 DISPÕE SOBRE A OBRIGATORIEDADE DA INSTALAÇÃO OU ADAPTAÇÃO DE FRALDÁRIO NAS UNIDADES BÁSICAS (UBS) DE SAÚDE NO MUNICÍPIO DE PARAUAPEBAS.
+O PRESIDENTE DA CÂMARA MUNICIPAL DE PARAUAPEBAS Faço saber que a Câmara Municipal rejeitou o veto e eu, no uso das minhas atribuições legais, promulgo a seguinte lei:
