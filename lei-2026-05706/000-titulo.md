@@ -1,0 +1,3 @@
+# LEI Nº 5.706, DE 8 DE OUTUBRO DE 2026.
+DECLARA DE UTILIDADE PÚBLICA O INSTITUTO ARTE E CULTURA FLOR DO SERTÃO - IFS.
+A CÂMARA MUNICIPAL DE PARAUAPEBAS, Estado do Pará, aprovou e eu, Prefeito do Município, sanciono a seguinte lei:
