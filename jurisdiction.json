@@ -1,0 +1,9 @@
+{
+  "path": "br-pa-parauapebas",
+  "code": "BR-PA-PARAUAPEBAS",
+  "name": "Parauapebas (city)",
+  "level": "municipality",
+  "parent": "br-pa",
+  "repo": "https://github.com/lexifina/brazil-parauapebas-city-law",
+  "build": "built: the law of Parauapebas from the Câmara Municipal's SAPL"
+}

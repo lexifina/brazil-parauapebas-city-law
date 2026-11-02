@@ -1,0 +1,663 @@
+{
+ "country": "BR-PA-PARAUAPEBAS",
+ "acts": [
+  {
+   "slug": "lei-2026-05706",
+   "short": "Lei 5706/2026",
+   "title": "Lei nº 5.706, de 8 de outubro de 2026",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/4969",
+   "versions": [
+    {
+     "from": "2026-10-13",
+     "units": 3,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2026/4969/lei_n__5.706-2026_declara_de_utilidade_p_blica_o_instituto_arte_e_cultura_flor_do_sert_o___ifs_1.pdf",
+     "sha256": "fdbda9ff603b92fed6adaccfcb378d7376533672507a07faf70eb274507e4919"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05703",
+   "short": "Lei 5703/2026",
+   "title": "Lei nº 5.703, de 18 de setembro de 2026",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/4959",
+   "versions": [
+    {
+     "from": "2026-09-23",
+     "units": 6,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2026/4959/lei-5.703-2026_-_altera_a_lei_no_4.426-2010_institui_o__programa_lar_da_nossa_gente.pdf",
+     "sha256": "cf31cfe8ad9623d3ff9989f056d079e9d9872e843ec842769da9b32e089675b5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05702",
+   "short": "Lei 5702/2026",
+   "title": "Lei nº 5.702, de 17 de setembro de 2026",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/4958",
+   "versions": [
+    {
+     "from": "2026-09-23",
+     "units": 7,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2026/4958/lei-5.702-2026_-_altera_a_lei_no_4.925-2020_dispoe_sobre_a_proibicao_de_queimadas.pdf",
+     "sha256": "cf83d317f376013c9368902289bd062c70415382b7fab65ff709c76da8ed084b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05695",
+   "short": "Lei 5695/2026",
+   "title": "Lei nº 5.695, de 14 de agosto de 2026",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/4949",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 12,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2026/4949/lei_no_5.695_de_14_de_agosto_de_2026_-_ass.pdf",
+     "sha256": "b40a006c67c3d93e7eb933e0a78cfbad018b6c289132fc5fbf492800361d0890"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05694",
+   "short": "Lei 5694/2026",
+   "title": "Lei nº 5.694, de 14 de agosto de 2026",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/4948",
+   "versions": [
+    {
+     "from": "2026-08-20",
+     "units": 3,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2026/4948/lei_no_5.694_de_14_de_agosto_de_2026_-_ass.pdf",
+     "sha256": "7a49a3353c52a9ff984769a059e4fc30d9cd3ed1cb5633fb5bafd9e05b940c93"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05679",
+   "short": "Lei 5679/2026",
+   "title": "Lei nº 5.679, de 6 de julho de 2026",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/4901",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 16,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2026/4901/lei_no_5.679-2026_-_institui_programa_de_densenvolvimento_economico_sustentavel_e_cria_fumdec_e_ceprodepa.pdf",
+     "sha256": "3249bcfc72d6d15a3e3c926a7a667d6d42eb9a9b1a4714240b430d0ac515fab9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05677",
+   "short": "Lei 5677/2026",
+   "title": "Lei nº 5.677, de 6 de julho de 2026",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/4899",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 8,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2026/4899/lei_no_5.677-2026_-_revoga_a_lei_no_4.435-2010_-_poder_executivo_realizar_doacao_de_bem_imovel_dominical.pdf",
+     "sha256": "6ec31fe924043a82bcf4288dd4a2ba48e7518001894748ee359446a1482473b1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05675",
+   "short": "Lei 5675/2026",
+   "title": "Lei nº 5.675, de 6 de julho de 2026",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/4892",
+   "versions": [
+    {
+     "from": "2026-07-08",
+     "units": 10,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2026/4892/lei_n__5.675-2026_-_altera_a_lei_n__4.213-2001_compet_ncia_relacionada___prote__o_e_ao_bem-estar_animal_semma_3_1.pdf",
+     "sha256": "5abe1d7dd2412708ebbbe0a5df70d2d12b4ea9ffda4a89b9bd95fd3052a15ff1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05674",
+   "short": "Lei 5674/2026",
+   "title": "Lei nº 5.674, de 6 de julho de 2026",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/4897",
+   "versions": [
+    {
+     "from": "2026-07-08",
+     "units": 10,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2026/4897/lei_n__5.674-2026_-_institui_a_jornada_social_para_fortalecimento_do_sistema__nico_de_assist_ncia_social___suas_1.pdf",
+     "sha256": "c8c831c5f54d9769386d28f67caf6754b7f6c9e82864696ebee8b27e3d45f4ad"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05664",
+   "short": "Lei 5664/2026",
+   "title": "Lei nº 5.664, de 12 de junho de 2026",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/4885",
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "units": 8,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2026/4885/lei_no_5.664-2026_-_institui_o_concurso_municipal_de_escrita_criativa.pdf",
+     "sha256": "02c9090d56a3f6a67e7ce4935d87915ddc59aefe5150586e0d94f2555427a482"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05660",
+   "short": "Lei 5660/2026",
+   "title": "Lei nº 5.660, de 27 de maio de 2026",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/4881",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 8,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2026/4881/lei_no_5.660-2026_-_institui_o_programa_de_teleatendimento_em_saude_mental.pdf",
+     "sha256": "6b6705c3bd2b5eada12dc2bbb042adc67a634f3233a706b90205b6095cd6f500"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05657",
+   "short": "Lei 5657/2026",
+   "title": "Lei nº 5.657, de 19 de maio de 2026",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/4824",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 4,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2026/4824/lei_no_5.657-2026-altera_lei_no_5.218-2023-_escola_eraides_santos.pdf",
+     "sha256": "61cf0b54bea43c18790c7dc73b88dde71fd1bad9c195a5a4b1b381f26edccdd8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05656",
+   "short": "Lei 5656/2026",
+   "title": "Lei nº 5.656, de 15 de maio de 2026",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/4823",
+   "versions": [
+    {
+     "from": "2026-05-29",
+     "units": 4,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2026/4823/lei_no_5.656-2026-altera_lei_no_5.219-2023-_escola_josiane_salazar.pdf",
+     "sha256": "f114834d09ecb3f4b7afb058e675325ac9905a85ebf7cbadb83862472b543f1d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05636",
+   "short": "Lei 5636/2026",
+   "title": "Lei nº 5.636, de 12 de fevereiro de 2026",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/4752",
+   "versions": [
+    {
+     "from": "2026-02-17",
+     "units": 4,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2026/4752/lei_no_5.636-2026_promulgada_pela_camara_-_ass.pdf",
+     "sha256": "5ddfa63c4a45c126e2ac1edcda52893859915141d9158c38b89370d11b4588e3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-05635",
+   "short": "Lei 5635/2026",
+   "title": "Lei nº 5.635, de 12 de fevereiro de 2026",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/4751",
+   "versions": [
+    {
+     "from": "2026-02-17",
+     "units": 4,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2026/4751/lei_no_5.635-2026_promulgada_pela_camara_-_ass.pdf",
+     "sha256": "56a0200fde40481b579f7335ee45ea8ae038c74a252dbc1b9cba3b9cb9346db3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05622",
+   "short": "Lei 5622/2025",
+   "title": "Lei nº 5.622, de 17 de dezembro de 2025",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/4724",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 7,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2025/4724/lei_5622_25_-_assinado.pdf",
+     "sha256": "1d0d30231fcbcbdcb96e1aae2a20e39ea88a07a23b78fa6aa9d33629b9284b79"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05616",
+   "short": "Lei 5616/2025",
+   "title": "Lei nº 5.616, de 10 de dezembro de 2025",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/4736",
+   "versions": [
+    {
+     "from": "2025-12-15",
+     "units": 5,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2025/4736/lei_no_5.616-2025_-_revoga_lei_no_5.502-2024_determina_criterios_publicidade_instalacao_equipamentos_fiscalizacao_eletronica.pdf",
+     "sha256": "275fb943f75e5457334eb1387d293c1560fc41acf09e16aa41c7bc49c464b62c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05605",
+   "short": "Lei 5605/2025",
+   "title": "Lei nº 5.605, de 13 de novembro de 2025",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/4677",
+   "versions": [
+    {
+     "from": "2025-11-14",
+     "units": 6,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2025/4677/lei_no_5.605-2025_-_altera_dispositivos_da_lei_no_4.629-2015_estrutura_da_camara_-_assinado.pdf",
+     "sha256": "fb2096de95c7d2ac6ffb6c882149f0e97acfdd80a603d8b422f3efed02dee8ac"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05602",
+   "short": "Lei 5602/2025",
+   "title": "Lei nº 5.602, de 10 de novembro de 2025",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/4674",
+   "versions": [
+    {
+     "from": "2025-11-11",
+     "units": 6,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2025/4674/lei_n__5.602-2025_-_institui_no_calend_rio_oficial_de_eventos_o_agosto_branco_-_assinado_3.pdf",
+     "sha256": "1843ed2a80ebe9c4b148dd085f861bfed1040ad1112a7d2ff159778638bf1305"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05593",
+   "short": "Lei 5593/2025",
+   "title": "Lei nº 5.593, de 17 de outubro de 2025",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/4665",
+   "versions": [
+    {
+     "from": "2025-10-21",
+     "units": 5,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2025/4665/lei_no_5.593-2025_-_altera_denominacao_da_escola_eraides_santos_araujo.pdf",
+     "sha256": "3f316aa6c8fe2047f5811d965e83c9460ebca391aec032d0c20d035e5602a7c3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05586",
+   "short": "Lei 5586/2025",
+   "title": "Lei nº 5.586, de 30 de setembro de 2025",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/4649",
+   "versions": [
+    {
+     "from": "2025-10-01",
+     "units": 5,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2025/4649/lei_no_5.586-2025_-_institui_dia_municipal_das_teadicoes_das_raizes_africanas_e_das_nscoes_do_condomble.pdf",
+     "sha256": "dea67e29cc29da907af82ec1ae4e5a90bceb99f5353e25e60d28b1ac5185a705"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05583",
+   "short": "Lei 5583/2025",
+   "title": "Lei nº 5.583, de 4 de setembro de 2025",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/4623",
+   "versions": [
+    {
+     "from": "2025-09-08",
+     "units": 8,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2025/4623/lei_no_5.583_de_4_de_setembro_de_2025_-_ass.pdf",
+     "sha256": "b42b65650916ab1d01ae45310ae6e6996b625f1b7c10cf86d2efdeff098a2256"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05581",
+   "short": "Lei 5581/2025",
+   "title": "Lei nº 5.581, de 2 de setembro de 2025",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/4622",
+   "versions": [
+    {
+     "from": "2025-09-04",
+     "units": 6,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2025/4622/lei_no_5.581_de_2_de_setembro_de_2025_-_ass.pdf",
+     "sha256": "5a5d698b897f95627663aafd9f1ddee78acdb051608c876d07f5dd52e48e84e4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05580",
+   "short": "Lei 5580/2025",
+   "title": "Lei nº 5.580, de 25 de agosto de 2025",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/4621",
+   "versions": [
+    {
+     "from": "2025-09-04",
+     "units": 5,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2025/4621/lei_no_5.580_de_25_de_agosto_de_2025_pl_73-2025_-_ass.pdf",
+     "sha256": "290a6b2bde63d8ebce90f2fb685a3a70dae0e3d0c1937ce5c5f4ab2dad4a3018"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05579",
+   "short": "Lei 5579/2025",
+   "title": "Lei nº 5.579, de 25 de agosto de 2025",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/4620",
+   "versions": [
+    {
+     "from": "2025-09-04",
+     "units": 7,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2025/4620/lei_no_5.579_de_25_de_agosto_de_2025_pl_39-2025_-_ass.pdf",
+     "sha256": "b200baf12cd18d29115a8b32416348f1aee4bed25402fe1c3485003ae8338d96"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05578",
+   "short": "Lei 5578/2025",
+   "title": "Lei nº 5.578, de 25 de agosto de 2025",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/4619",
+   "versions": [
+    {
+     "from": "2025-09-04",
+     "units": 10,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2025/4619/lei_no_5.578_de_25_de_agosto_de_2025_pl_27-2025_-_ass.pdf",
+     "sha256": "303a2621792ee7b61e7e4cb728105089c5a4e5e279747fce092a042dc870a0b6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05577",
+   "short": "Lei 5577/2025",
+   "title": "Lei nº 5.577, de 14 de julho de 2025",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/4617",
+   "versions": [
+    {
+     "from": "2025-08-25",
+     "units": 50,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2025/4617/lei_no_5.577_de_14_de_julho_de_2025_pl_65-2025_-_ass.pdf",
+     "sha256": "d67347ff53d401a9e7236fbcc8ecb748b4de43b6c86f106caf1d77945c3e197d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05574",
+   "short": "Lei 5574/2025",
+   "title": "Lei nº 5.574, de 8 de julho de 2025",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/4616",
+   "versions": [
+    {
+     "from": "2025-08-25",
+     "units": 92,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2025/4616/lei_no_5.574_de_8_de_julho_de_2025_pl_64-2025_-_ass.pdf",
+     "sha256": "ed366695bcbb62944720ce76a9ee5ca30b062b95970eb38b998d6b1d6a60a80a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-05548",
+   "short": "Lei 5548/2025",
+   "title": "Lei nº 5.548, de 7 de janeiro de 2025",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/4403",
+   "versions": [
+    {
+     "from": "2025-01-07",
+     "units": 3,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2025/4403/lei_no_5.548-2025_-_declara_de_utilidade_publica_a_cooperativa_de_mulheres_agricultoras_unidas_-_coop_musa.pdf",
+     "sha256": "0b20db65b5b407380c6b2cbbc99353847130f9996024b6e25118f75b4816610b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05546",
+   "short": "Lei 5546/2024",
+   "title": "Lei nº 5.546, de 19 de dezembro de 2024",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/4396",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 6,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2024/4396/lei_no_5.546-2024_-_intitui_o_cadastro_de_pessoas_condenadas_pelos_crimes_contra_a_dignidade_sexual_de_crianca_e_adolescente.pdf",
+     "sha256": "c7377a07a382bb70b0575573d9e5b66e9b47e4e7c1699ba95de7e0b4af116675"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05541",
+   "short": "Lei 5541/2024",
+   "title": "Lei nº 5.541, de 17 de dezembro de 2024",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/4391",
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "units": 19,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2024/4391/lei_no_5.541-2024_-_altera_a_denominacao_da_escola_infantil_crianca_esperanca.pdf",
+     "sha256": "885f73aa98aa6f072b287afee98a5b9612d4f86ddab14931e2141354102a8bc8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05533",
+   "short": "Lei 5533/2024",
+   "title": "Lei nº 5.533, de 5 de dezembro de 2024",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/4418",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 3,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2024/4418/lei_no_5.533-2024_-_altera_a_lei_no_4.293-2005_-_ingresso_no_cargo_de_agente_de_controle_interno.pdf",
+     "sha256": "d179694c0a5a0d117d6fe531d163bad8e3dda8b8c3d49c202b2d149cc39e8bdd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05532",
+   "short": "Lei 5532/2024",
+   "title": "Lei nº 5.532, de 5 de dezembro de 2024",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/4374",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 4,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2024/4374/lei_municipal_no_5.532-2024.pdf",
+     "sha256": "f1f4f85ef0dffb2d3c3f81004db6134d5119ab4ee2a864f4ab6593883dfa5d01"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05519",
+   "short": "Lei 5519/2024",
+   "title": "Lei nº 5.519, de 6 de novembro de 2024",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/4222",
+   "versions": [
+    {
+     "from": "2024-11-11",
+     "units": 6,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2024/4222/lei_no_5.519-2024_-.pdf",
+     "sha256": "a3bda61911e7175c10319ff97a67e5c84ee39e467b2c84ead2aa6a85b9bc810d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05518",
+   "short": "Lei 5518/2024",
+   "title": "Lei nº 5.518, de 6 de novembro de 2024",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/4217",
+   "versions": [
+    {
+     "from": "2024-11-11",
+     "units": 6,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2024/4217/lei_no_5.518-2024_-_dispoe_sobre_a_criacao_do_programa_de_saude_escolar_para_consulta_clinica__para_alunos_da_rede_publica.pdf",
+     "sha256": "80e5351d6a3a31c4a468f994a78e171843488c180104047fda4e0f2a59176555"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05517",
+   "short": "Lei 5517/2024",
+   "title": "Lei nº 5.517, de 5 de novembro de 2024",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/4221",
+   "versions": [
+    {
+     "from": "2024-11-11",
+     "units": 6,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2024/4221/lei_no_5.517-2024_-_declara_de_utilidade_publica_a_academia_parauapebense_de_letras-apl..pdf",
+     "sha256": "845f92a20615ca9367908293fd3a29f54e834fc7fc1f2c97bdd8eb81ce9fd82c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05516",
+   "short": "Lei 5516/2024",
+   "title": "Lei nº 5.516, de 5 de novembro de 2024",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/4220",
+   "versions": [
+    {
+     "from": "2024-11-11",
+     "units": 6,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2024/4220/lei_no_5.516-2024_-inclui_no_calendario_de_momemoracoes_oficiais_o_dia_municipal_da_resistencia_democratica..pdf",
+     "sha256": "a2411c5c8a419f8b8cb8ebb57ce868007cee858ac46f087cca1f3b52f16a581e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05515",
+   "short": "Lei 5515/2024",
+   "title": "Lei nº 5.515, de 5 de novembro de 2024",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/4219",
+   "versions": [
+    {
+     "from": "2024-11-11",
+     "units": 6,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2024/4219/lei_no_5.515-2024_-.pdf",
+     "sha256": "79a4de108561104552c96e26bb16d8589fef423834a9fcf81d99ccb453d60d5c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05496",
+   "short": "Lei 5496/2024",
+   "title": "Lei nº 5.496, de 2 de julho de 2024",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/3940",
+   "versions": [
+    {
+     "from": "2024-07-12",
+     "units": 6,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2024/3940/lei_no_5.496.2024.pdf",
+     "sha256": "b5aa09fc21f39d4af7f1f6b25ee3b32137e3075b125e5a658c8f77f3336ee515"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05488",
+   "short": "Lei 5488/2024",
+   "title": "Lei nº 5.488, de 24 de junho de 2024",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/3931",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 5,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2024/3931/lei_no_5.488.2024_-_promulgada.pdf",
+     "sha256": "5fa70b7bab5cf2dbafe61c5aa9b65340cbc63398f13facd58f928962a916c9f7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05487",
+   "short": "Lei 5487/2024",
+   "title": "Lei nº 5.487, de 21 de junho de 2024",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/3930",
+   "versions": [
+    {
+     "from": "2024-06-25",
+     "units": 6,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2024/3930/lei_no_5.487-2024.pdf",
+     "sha256": "6dfc5f7c19e00455bb4e7ef1dd5f5f506242b7daca0ed7d143f7b79b07964443"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05486",
+   "short": "Lei 5486/2024",
+   "title": "Lei nº 5.486, de 21 de junho de 2024",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/3929",
+   "versions": [
+    {
+     "from": "2024-06-25",
+     "units": 6,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2024/3929/lei_no_5.486-2024.pdf",
+     "sha256": "0660f4eb72ef6a609e5829d85f7a90fb3ea407e29661d66a0a08eedc07df2c89"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05473",
+   "short": "Lei 5473/2024",
+   "title": "Lei nº 5.473, de 24 de maio de 2024",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/3855",
+   "versions": [
+    {
+     "from": "2024-05-28",
+     "units": 6,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2024/3855/lei_no_5.473.2024__publicada.pdf",
+     "sha256": "3db85f108fbaddcfd40792eb0f1ba13009cc1b34ecd7976a443dd633575273fc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05445",
+   "short": "Lei 5445/2024",
+   "title": "Lei nº 5.445, de 11 de abril de 2024",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/4530",
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 6,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2024/4530/redacao_final_lei_no_5.445-2024_1.pdf",
+     "sha256": "194efda0c7d6b602977644748657879364aed0877f696386c9e92748682f0b48"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-05442",
+   "short": "Lei 5442/2024",
+   "title": "Lei nº 5.442, de 11 de abril de 2024",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/4529",
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "units": 4,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2024/4529/redacao_final_lei_no_5.442-2024_1.pdf",
+     "sha256": "663d73c15884b436093b03c4ec9c9212d3a13b304d5a2a3d28fa515b0526c29d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05343",
+   "short": "Lei 5343/2023",
+   "title": "Lei nº 5.343, de 9 de novembro de 2023",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/4519",
+   "versions": [
+    {
+     "from": "2023-11-16",
+     "units": 6,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2024/4519/redacao_final_lei_no_5.343_veto_total.pdf",
+     "sha256": "503d561b11d0b9e3accecf63076b302dcadbce3eda91b4952e7ab5951eeb76cf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05323",
+   "short": "Lei 5323/2023",
+   "title": "Lei nº 5.323, de 11 de outubro de 2023",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/4528",
+   "versions": [
+    {
+     "from": "2023-10-18",
+     "units": 5,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2023/4528/redacao_final_lei_veto_total_-_lei_5323_-_2023.pdf",
+     "sha256": "32b1d8eb773f79bf173ef74db211b23019e30377db936541234a52b402bc6a09"
+    }
+   ]
+  }
+ ]
+}
