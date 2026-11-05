@@ -658,6 +658,104 @@
      "sha256": "32b1d8eb773f79bf173ef74db211b23019e30377db936541234a52b402bc6a09"
     }
    ]
+  },
+  {
+   "slug": "lei-2023-05278",
+   "short": "Lei 5278/2023",
+   "title": "Lei nº 5.278, de 1 de setembro de 2023",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/3639",
+   "versions": [
+    {
+     "from": "2023-09-06",
+     "units": 15,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2023/3639/leis_publicadas_-_pl_no_059-2023.pdf",
+     "sha256": "7ac77879988d52eb63e5c577029391ff02d6a2bd09b162585236846b04e2a0b7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05277",
+   "short": "Lei 5277/2023",
+   "title": "Lei nº 5.277, de 1 de setembro de 2023",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/3640",
+   "versions": [
+    {
+     "from": "2023-09-06",
+     "units": 15,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2023/3640/lei_no_5.277-2023_pl_no_009-2023.pdf",
+     "sha256": "84c07cf083806c46af6f0983b62135e0f48f453c8f0c68485fd94f53258e2fd0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05276",
+   "short": "Lei 5276/2023",
+   "title": "Lei nº 5.276, de 1 de setembro de 2023",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/3644",
+   "versions": [
+    {
+     "from": "2023-09-06",
+     "units": 4,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2023/3644/lei_no_5.276-2023_pl_no_60-2023.pdf",
+     "sha256": "2cb514b4e3861d74f6596ffde13c2f885ef975ed87dcb05a25c1152db78dc1df"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05274",
+   "short": "Lei 5274/2023",
+   "title": "Lei nº 5.274, de 31 de agosto de 2023",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/4548",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 4,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2023/4548/redacao_final_lei_no_5.274-2023_pl_no_120-2021_1.pdf",
+     "sha256": "772bf906f9561a55bc19f26033298974b4c1b521dafb8618fa30c19be10ed202"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05273",
+   "short": "Lei 5273/2023",
+   "title": "Lei nº 5.273, de 31 de agosto de 2023",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/4547",
+   "versions": [
+    {
+     "from": "2023-09-06",
+     "units": 8,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2023/4547/redacao_final_lei_no_5.273-2023_pl_no_103-2021_1.pdf",
+     "sha256": "0bd3ab11d7e605aed4703615b8bc6889e104daf2828929d83c57c82af62e6640"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05267",
+   "short": "Lei 5267/2023",
+   "title": "Lei nº 5.267, de 24 de agosto de 2023",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/3637",
+   "versions": [
+    {
+     "from": "2023-09-06",
+     "units": 8,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2023/3637/leis_publicadas_-_pl_no_048-2023.pdf",
+     "sha256": "3935cc75792a470eb3617d0d80487960b67f877ab81a1b80f409844c54d309e6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05265",
+   "short": "Lei 5265/2023",
+   "title": "Lei nº 5.265, de 11 de agosto de 2023",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/3699",
+   "versions": [
+    {
+     "from": "2023-08-11",
+     "units": 7,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2023/3699/lei_no_5.265_de_11_de_agosto_de_2023_-_redacao_final.pdf",
+     "sha256": "85fcad8d54bd6446cb8f591ae2c6e60bdb42d06190c353ee8c89f7e39a644999"
+    }
+   ]
   }
  ]
 }

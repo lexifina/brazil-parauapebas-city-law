@@ -81,6 +81,18 @@
     "lei-2023-05343"
    ],
    "sha256": "7a2f05ee3d265b551c864a9c1dd2827a88b1ffbb112c673bc4225c8749fad4b9"
+  },
+  "30-leis-010.json": {
+   "acts": [
+    "lei-2023-05265",
+    "lei-2023-05267",
+    "lei-2023-05273",
+    "lei-2023-05274",
+    "lei-2023-05276",
+    "lei-2023-05277",
+    "lei-2023-05278"
+   ],
+   "sha256": "46b86e942cccbf22a1cb6eb221fcaa3ae5d42c387dc2f6ecdbff90dcf9dd5c66"
   }
  },
  "schema": 1
