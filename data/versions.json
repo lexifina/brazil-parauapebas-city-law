@@ -966,6 +966,118 @@
      "sha256": "286024ce092778c090c8da28ffe76eac21ad868ade8a43f962df52706348fa72"
     }
    ]
+  },
+  {
+   "slug": "lei-2021-05045",
+   "short": "Lei 5045/2021",
+   "title": "Lei nº 5.045, de 16 de dezembro de 2021",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/3180",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 8,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2021/3180/lei_5.045-2021.pdf",
+     "sha256": "5a246147df9926c7c023918f95967c8c5ff0f5671e42b0b005dde0e548b4bc54"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-05044",
+   "short": "Lei 5044/2021",
+   "title": "Lei nº 5.044, de 16 de dezembro de 2021",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/3170",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 5,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2021/3170/lei_5.044-2021.pdf",
+     "sha256": "4f17caba43d5970e95ddf718d24e0f511dab7930e96ecf99baf2b69cb75343e9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-05043",
+   "short": "Lei 5043/2021",
+   "title": "Lei nº 5.043, de 16 de dezembro de 2021",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/3173",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 5,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2021/3173/lei_5.043-2021.pdf",
+     "sha256": "0715acaecdc04a875639739dee330ca0c39544ba4472ad84c2244975d593bd1f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-05042",
+   "short": "Lei 5042/2021",
+   "title": "Lei nº 5.042, de 16 de dezembro de 2021",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/3171",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 8,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2021/3171/lei_5.042-2021.pdf",
+     "sha256": "7f6bec932eeb243dff08fab0ac259a800773ed043bb78d11bc4c13d25c0614df"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-05035",
+   "short": "Lei 5035/2021",
+   "title": "Lei nº 5.035, de 8 de dezembro de 2021",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/3159",
+   "versions": [
+    {
+     "from": "2021-12-14",
+     "units": 7,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2021/3159/lei_5.035-2021.pdf",
+     "sha256": "e5fcb63a8682e5022b7d73f2219f1e810dec33e9fef1901ecd1b154687dd64e4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-05033",
+   "short": "Lei 5033/2021",
+   "title": "Lei nº 5.033, de 2 de dezembro de 2021",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/3150",
+   "versions": [
+    {
+     "from": "2021-12-08",
+     "units": 4,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2021/3150/lei_5.033-2021_-_assinada.pdf",
+     "sha256": "ca6cd6399244e8c6f24bbd720cf22bf588b9e30517cd049738886f2480062499"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-05012",
+   "short": "Lei 5012/2021",
+   "title": "Lei nº 5.012, de 25 de outubro de 2021",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/3075",
+   "versions": [
+    {
+     "from": "2021-11-05",
+     "units": 6,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2021/3075/lei_5.012-2021_-_assinada.pdf",
+     "sha256": "fb8e292859c1795c7a4514b0a0fbaacfd1f10da91ad5310e50352f603661354d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-05011",
+   "short": "Lei 5011/2021",
+   "title": "Lei nº 5.011, de 25 de outubro de 2021",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/3115",
+   "versions": [
+    {
+     "from": "2021-11-10",
+     "units": 4,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2021/3115/lei_5.011-2021_-_assinada.pdf",
+     "sha256": "bd64cacb612e31ff93e16d6eb890e4c83a915c0f8ec4409a39d24c612108448b"
+    }
+   ]
   }
  ]
 }
