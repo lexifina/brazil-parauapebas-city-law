@@ -784,6 +784,62 @@
      "sha256": "46c5f2b2bf15deea34c8fa4f536034b1689baacd5f8e0d7758138cf3546b8631"
     }
    ]
+  },
+  {
+   "slug": "lei-2022-05196",
+   "short": "Lei 5196/2022",
+   "title": "Lei nº 5.196, de 20 de dezembro de 2022",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/3495",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 3,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2022/3495/lei_5.196-2022_-_assinada.pdf",
+     "sha256": "dcc11f11ade8fe6ba1ba83c54bf25a06ab23bef3c7383722e0c4d8285929e875"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05194",
+   "short": "Lei 5194/2022",
+   "title": "Lei nº 5.194, de 19 de dezembro de 2022",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/3480",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 4,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2022/3480/lei_5.194-2022_-_assinada.pdf",
+     "sha256": "c7b269ea61b498e676e834eab14b531ef3e0fad6ca716bd6075c0bbbd1e08605"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05169",
+   "short": "Lei 5169/2022",
+   "title": "Lei nº 5.169, de 4 de novembro de 2022",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/3411",
+   "versions": [
+    {
+     "from": "2022-11-11",
+     "units": 5,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2022/3411/lei_5.169-2022.pdf",
+     "sha256": "d56680bfbbd6b3dcefe281be43deaf4f13911173cefbb3fd9d8684961657d36e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05161",
+   "short": "Lei 5161/2022",
+   "title": "Lei nº 5.161, de 22 de setembro de 2022",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/3443",
+   "versions": [
+    {
+     "from": "2022-09-22",
+     "units": 5,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2022/3443/lei_5.161-2022.pdf",
+     "sha256": "a5b88a3d9d45f93ed622622328274b18040aaf43ce12a974ae4df82ab546a3bd"
+    }
+   ]
   }
  ]
 }
