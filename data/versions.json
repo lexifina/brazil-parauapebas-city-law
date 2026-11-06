@@ -756,6 +756,34 @@
      "sha256": "85fcad8d54bd6446cb8f591ae2c6e60bdb42d06190c353ee8c89f7e39a644999"
     }
    ]
+  },
+  {
+   "slug": "lei-2023-05232",
+   "short": "Lei 5232/2023",
+   "title": "Lei nº 5.232, de 2 de junho de 2023",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/3641",
+   "versions": [
+    {
+     "from": "2023-09-26",
+     "units": 4,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2023/3641/lei_o_5.232_pl_no_021-2023-1.pdf",
+     "sha256": "03472dba0638a4f53d530975f0fb4d81e60cc6081c2478c4a3bf9bd9e7b5eac5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-05228",
+   "short": "Lei 5228/2023",
+   "title": "Lei nº 5.228, de 30 de maio de 2023",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/3559",
+   "versions": [
+    {
+     "from": "2023-05-30",
+     "units": 7,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2023/3559/lei_5.228-2023_-_dispoe_sobre_a_fixacao_de_cartazes_ou_placas_nas_maternidades_publicas_e_privadas_sobre_canais_de_denuncia_violencia_obstetrica.pdf",
+     "sha256": "46c5f2b2bf15deea34c8fa4f536034b1689baacd5f8e0d7758138cf3546b8631"
+    }
+   ]
   }
  ]
 }
