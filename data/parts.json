@@ -119,6 +119,15 @@
     "lei-2022-05155"
    ],
    "sha256": "cabe3a48b7e9418ace7009a2fe4252b30e4f95a868dbb350da6439b009542218"
+  },
+  "30-leis-014.json": {
+   "acts": [
+    "lei-2022-05069",
+    "lei-2022-05070",
+    "lei-2022-05090",
+    "lei-2022-05094"
+   ],
+   "sha256": "4a2b1a9f15c625801ece0ed45f2aff6a5bedfe01eab381465f6dba7d09063dbc"
   }
  },
  "schema": 1

@@ -910,6 +910,62 @@
      "sha256": "ce46b845ed669a94928bc49e19eaae5531f4314590c42be70e5d663087b64d2d"
     }
    ]
+  },
+  {
+   "slug": "lei-2022-05094",
+   "short": "Lei 5094/2022",
+   "title": "Lei nº 5.094, de 2 de maio de 2022",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/3274",
+   "versions": [
+    {
+     "from": "2022-06-03",
+     "units": 5,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2022/3274/lei_5.094-22_publicada.pdf",
+     "sha256": "a76ad4d7c24251dbd3023fc2bd54080d263d0907de6cac5ddff9b1af0ff3603f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05090",
+   "short": "Lei 5090/2022",
+   "title": "Lei nº 5.090, de 19 de abril de 2022",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/3242",
+   "versions": [
+    {
+     "from": "2022-04-29",
+     "units": 6,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2022/3242/lei_5.090-2022-assinado.pdf",
+     "sha256": "c2809aa101731038cddb4a8e511997b6490037c16b41a0c04597145626328f6f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05070",
+   "short": "Lei 5070/2022",
+   "title": "Lei nº 5.070, de 11 de março de 2022",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/3226",
+   "versions": [
+    {
+     "from": "2022-03-17",
+     "units": 6,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2022/3226/lei_5.070-2022.pdf",
+     "sha256": "90ce807a0362dc7fd6fb87a3aa30085dd9aa93a1d682c6b2d5fe35038872fa45"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-05069",
+   "short": "Lei 5069/2022",
+   "title": "Lei nº 5.069, de 11 de março de 2022",
+   "url": "https://sapl.parauapebas.pa.leg.br/norma/3224",
+   "versions": [
+    {
+     "from": "2022-03-17",
+     "units": 8,
+     "source_url": "https://sapl.parauapebas.pa.leg.br/media/sapl/public/normajuridica/2022/3224/lei_5.069-2022.pdf",
+     "sha256": "286024ce092778c090c8da28ffe76eac21ad868ade8a43f962df52706348fa72"
+    }
+   ]
   }
  ]
 }
